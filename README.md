@@ -1,7 +1,5 @@
 # scrapeThatNews
 
-All the News That's Fit to Scrape
-
 Web App to scrape latest news
 
 npm packages:
